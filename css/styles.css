@@ -63,6 +63,11 @@ main > .resume {
 	margin: 0 auto 40px !important;	
 }
 
+main > .resume > .e-text {
+	display: block;
+	margin-top: 20px !important;	
+}
+
 .icons-social i {
 	padding: 10px;
 }
